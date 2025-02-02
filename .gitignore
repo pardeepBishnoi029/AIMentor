@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+*.iml
+
+# Mac
+.DS_Store
